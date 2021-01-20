@@ -5,7 +5,7 @@
 ## What is this?
 This is an MDF case that attaches to a wide LCD.
 
-![Test Image 5](image/image/IMG_7202.JPG)
+![Test Image 5](image/image/IMG_7202.jpg)
 
 ## How to make
 Cut out the dxf file with a laser cutter and glue it together. After that, shape it with sandpaper.
@@ -13,7 +13,7 @@ Cut out the dxf file with a laser cutter and glue it together. After that, shape
 
 ![Test Image 3](image/IMG_6989.jpg)
 
-![Test Image 4](image/image/IMG_7202.JPG)
+![Test Image 4](image/image/IMG_7202.jpg)
 
 
 ## Where can i buy it?
