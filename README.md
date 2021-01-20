@@ -13,7 +13,7 @@ Cut out the dxf file with a laser cutter and glue it together. After that, shape
 
 ![Test Image 3](image/IMG_6989.jpg)
 
-![Test Image 4](image/IMG_7202.png)
+![Test Image 4](image/IMG_6987.jpg)
 
 ## Where can i buy it?
 it's here.
