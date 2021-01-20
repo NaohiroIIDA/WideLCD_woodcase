@@ -1,5 +1,7 @@
 # WideLCD_woodcase
 
+![Test Image 1](image/IMG_6991.jpg)
+
 ## What is this?
 This is an MDF case that attaches to a wide LCD.
 
